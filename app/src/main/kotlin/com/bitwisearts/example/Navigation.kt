@@ -56,7 +56,7 @@ fun AppNavHost(
 			val backHandlerEnabled =
 				remember { mutableStateOf(true) }
 			WebViewContent(
-				url = "https://github.com/richATavail/android-webview-example",
+				url = "https://myapp-82d29.web.app/",
 				navController = navController,
 				backHandlerEnabled = backHandlerEnabled)
 		}

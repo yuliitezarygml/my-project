@@ -10,7 +10,7 @@ android {
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.bitwisearts.example"
+        applicationId = "com.yuliitezary.gpt"
         minSdk = 29
         targetSdk = 33
         versionCode = 1
